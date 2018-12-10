@@ -1,0 +1,7 @@
+,names,means,spread
+condition0,Overall-Linking,93.94872,24.42082
+condition1,Overall-NoLinking,46.19101,13.68821
+condition4,Original-Linking,105.7073,41.37093
+condition5,Original,49.05556,20.30904
+condition4,Slideshow-Linking,80.91892,23.39408
+condition5,Slideshow,41.77143,15.41249
